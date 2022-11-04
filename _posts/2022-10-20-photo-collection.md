@@ -5,7 +5,8 @@ layout: post
 categories: media
 ---
 
-![SwissAlps](https://github.com/maneesh51/maneesh51.github.io/blob/master/Images/DSC00627_1.jpg)
+<!-- ![SwissAlps](https://github.com/maneesh51/maneesh51.github.io/blob/master/Images/DSC00627_1.jpg) -->
+![SwissAlps](https://img.theculturetrip.com/1440x807/smart/wp-content/uploads/2019/03/the-10-most-beautiful-towns-you-have-to-visit-in-the-alps_redo_lt_header_upload.jpg)
 
 ## MathJax
 
