@@ -6,7 +6,7 @@ categories: media
 ---
 
 <p align="center">
-<img src="https://github.com/maneesh51/maneesh51.github.io/blob/master/Images/DSC00627_1.jpg" width="1000" height="500">
+<img src="https://github.com/maneesh51/maneesh51.github.io/blob/master/Images/DSC00627_1.jpg" width="800" height="500">
 </p>
 
 ## MathJax
