@@ -5,8 +5,9 @@ layout: post
 categories: media
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
-
+<p align="center">
+<img src="[https://i.natgeofe.com/k/88de42b8-764c-40d2-89ee-e72d55dc95b8/emperor-penguin-chicks_4x3.jpg](https://github.com/maneesh51/maneesh51.github.io/blob/master/Images/DSC00627_1.jpg)" width="700" height="500">
+</p>
 
 ## MathJax
 
