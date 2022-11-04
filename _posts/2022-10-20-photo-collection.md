@@ -5,9 +5,7 @@ layout: post
 categories: media
 ---
 
-<p align="center">
-<img src="https://github.com/maneesh51/maneesh51.github.io/blob/master/Images/DSC00627_1.jpg">
-</p>
+![SwissAlps](https://github.com/maneesh51/maneesh51.github.io/blob/master/Images/DSC00627_1.jpg)
 
 ## MathJax
 
