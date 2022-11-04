@@ -10,9 +10,10 @@
       <svg aria-hidden="true" class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ icon }}"></use></svg>
       <span aria-hidden="true">{{ title }}</span>
     </a>
-  <br>
-  <br>
   {%- endfor -%}
+  
+  <br>
+  <br>
   {%- for item in site.external -%}
     {%- assign node = site.pages | where: "name", item.file | first -%}
     {%- assign url = item.url | default: node.url -%}
