@@ -18,7 +18,7 @@ minimal: false            # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "README.md"}
-  - {title: Resume, icon: mandalorian, url: "https://maneesh51.github.io/resume/"}
+  - {title: Resume, icon: mandalorian, url: "https://maneesh51.github.io/resume/", width="700" height="500"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:manish.yadav83@outlook.com"}
