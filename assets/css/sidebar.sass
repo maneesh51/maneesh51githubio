@@ -54,8 +54,21 @@ nav a:hover, nav a.selected
 .description
   margin: 2em 0
 
+/* Fixed sidenav, full height */
+.sidenav 
+  height: 100%
+  width: 200px
+  position: fixed
+  z-index: 1
+  top: 0
+  left: 0
+  background-color: #111
+  overflow-x: hidden
+  padding-top: 20px
+
+  
 /* Style the sidenav links and the dropdown button */
-.dropdown-btn 
+.sidenav a, .dropdown-btn 
   text-decoration: none
   font-size: 1.06em
   display: block!important
@@ -71,13 +84,20 @@ nav a:hover, nav a.selected
   bottom: 0
   left: 0
 
+/* On mouse-over */
+.sidenav a:hover, .dropdown-btn:hover 
+  color: #f1f1f1
+
+/* Add an active class to the active dropdown button */
+.active 
+  background-color: green
+  color: white
 
 /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
 .dropdown-container 
   display: none
   background-color: #262626
   padding-left: 8px
-
 
 /* Optional: Style the caret down icon */
 .fa-caret-down 
