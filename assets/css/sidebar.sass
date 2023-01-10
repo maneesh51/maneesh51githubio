@@ -31,6 +31,7 @@ aside
   top: 0
   bottom: 0
   left: 0
+  overflow-x: hidden
 
 article header h1
   font-size: 2em
@@ -82,7 +83,7 @@ nav a:hover, nav a.selected
 
 /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
 .dropdown-container 
-  display: block!important
+  display: none
   background-color: lighten($dark, 2%)
   padding-left: 8px
 
@@ -91,7 +92,7 @@ nav a:hover, nav a.selected
   float: right
   padding-right: 8px
 
-nav .dropdown-btn:hover
-  background: lighten($dark, 2%)
-  text-decoration: inherit
+//nav .dropdown-btn:hover
+//  background: lighten($dark, 2%)
+//  text-decoration: inherit
   
