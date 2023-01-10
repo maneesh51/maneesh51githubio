@@ -27,21 +27,6 @@ external:                  # shows a footer with social links - for available ic
   - {title: Researchgate, icon: researchgate, url: "https://https://www.researchgate.net/profile/Manish-Yadav-16"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/manish_yadav4"}
 
-var dropdown = document.getElementsByClassName("dropdown-btn");
-var i;
-
-for (i = 0; i < dropdown.length; i++) {
-  dropdown[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var dropdownContent = this.nextElementSibling;
-    if (dropdownContent.style.display === "block") {
-      dropdownContent.style.display = "none";
-    } else {
-      dropdownContent.style.display = "block";
-    }
-  });
-}
-
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
